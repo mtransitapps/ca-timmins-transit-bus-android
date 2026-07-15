@@ -1,9 +1,16 @@
 {
     "default_route_id_enabled": true,
     "use_route_short_name_for_route_id": true,
+    "route_short_name_to_route_id_configs": [
+        {
+            "route_short_name": "7/6",
+            "route_id": 76000
+        }
+    ],
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
+    "stop_id_cleanup_regex": "^(TM)",
     "stop_name_cleaners": []
 }
