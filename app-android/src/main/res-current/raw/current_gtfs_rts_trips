@@ -1,13 +1,15 @@
-509,0,'Westmount',5
-609,0,'Home Depot',6
-709,0,'Terminal',7
-909,0,'Schumacher Gold Ctr',9
-1609,0,'Not In Service',16
-3109,0,'Hospital/Brousseau',31
-3209,0,'Lee/Rea South',32
-3709,0,'Riverside/Melrose',37
-3809,0,'Melrose/Riverside',38
-22209,0,'N College Express',222
-90109,0,'Home Depot/Porcupine',901
-90209,0,'Kaleidoscope/Lee/Rea S',902
-7600009,0,'Terminal',76000
+5019,0,'Westmount',5
+6019,0,'Home Depot',6
+7019,0,'Terminal',7
+9019,0,'Schumacher Gold Ctr',9
+16019,0,'Not In Service',16
+31019,0,'Hospital/Brousseau',31
+32019,0,'Lee/Rea South',32
+37019,0,'Riverside/Melrose',37
+38019,0,'Melrose/Riverside',38
+222019,0,'N College Express',222
+901029,0,'Home Depot',901
+901019,0,'Porcupine',901
+902029,0,'Kaleidoscope',902
+902019,0,'Lee/Rea South',902
+76000019,0,'Terminal',76000
